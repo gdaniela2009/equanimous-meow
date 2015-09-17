@@ -1,2 +1,2 @@
 for i in range(100):
-  print('Meow world')
+  print('menya pokajut na bol'shom ekrane my name is Danya')
