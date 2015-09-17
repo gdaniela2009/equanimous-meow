@@ -1,4 +1,4 @@
 i = 0
 while i < 1000:
-  print('Meow New 2015 Year)
+  print('ya na bol'shom ekrane MAME PRIVET PAPE PRIVET')
   i += 10
